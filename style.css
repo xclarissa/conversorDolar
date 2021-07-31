@@ -1,0 +1,50 @@
+body {
+    background-color: #323232;
+    text-align: center;
+}
+
+img {
+    width: 50%;
+}
+
+h1 {
+    color: rgb(228, 228, 2);
+    font-size: 40px;
+}
+
+input {
+    width: 140px;
+    height: 30px;
+    outline: none;  /* retira borda ao redor quando clica */
+}
+
+#reais {
+    border: 3px solid green;
+}
+
+#dolar {
+    border: 3px solid red;
+}
+
+p {
+    font-weight: bold;
+    font-size: 25px;
+    color: rgb(228, 228, 2);
+}
+
+button {
+    width: 140px;
+    height: 30px;
+    cursor: pointer;
+    border: 3px solid rgb(228, 228, 2);
+    background-color: #323232;
+    border-radius: 10px;
+    color: white;
+}
+
+button:hover {
+    color: #323232;
+    background-color: rgb(228, 228, 2);
+    font-size: 18px;
+    font-weight: bold;
+}
