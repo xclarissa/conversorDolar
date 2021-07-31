@@ -1,1 +1,1 @@
-Convertendo Dólar usando HTML, CSS e JS
+Convertendo Dólar usando HTML, CSS e JS 💵 💲
